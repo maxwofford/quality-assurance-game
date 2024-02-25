@@ -47,7 +47,7 @@ function addToChat (message, type) {
 }
 
 async function speakLine (message) {
-  await fetch('http://localhost:3000/inference', {
+  await fetch('/inference', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', },
     body: JSON.stringify({ message }),
