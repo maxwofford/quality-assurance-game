@@ -1,5 +1,0 @@
-- Complement her enough and it becomes a dating sim
-- Complement her too much and it becomes a horror game
-- Take too long and other robots start to get jealous
-- If you're acting too smart, Wheatly will show up
-- If you're acting too dumb, Claptrap will show up
