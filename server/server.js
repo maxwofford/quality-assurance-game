@@ -3,6 +3,7 @@ const express = require('express')
 const app = express()
 const port = 3000
 const cors = require('cors')
+const fetch = require('node-fetch')
 
 app.use(express.json())
 app.use(cors())
